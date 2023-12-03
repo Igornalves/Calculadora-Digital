@@ -6,15 +6,17 @@ Olá seja bem vindo a este repositorio do projeto em Front-end desenvolvido por 
 
 As linguagens utilizadas no projeto forma as seguintes:
 
-<img align="center" alt="HTML5" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-
+<div style="display: inline_block" >
+<br>
+<img alt="HTML5" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img alt="CSS3" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img alt="JavaScript" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<br>
+</div>
 
 ## Projeto Finalizado 
 
-Quando a calculadora estiver fianlizada, ficara desta seguinte forma.
+Quando a calculadora estiver fianlizada, ficara desta seguinte forma na imagem abaixo...
 
 ![diagrama de classes](/Imagem%20da%20Calculadora%20Digital.jpg)
 
@@ -22,4 +24,4 @@ O projeto tem funcionalidade que foram feita em Java Script que desta forma fica
 
 É um projeto simple mais que serve para aprende mais sobre os conceitos de Hmtl e Css 
 
-E tambem serve para aprende mais sobre Java Script de forma que possa ser usado dentro do projeto para melhora sua interatividad.
+E tambem serve para aprende mais sobre Java Script de forma que possa ser usado dentro do projeto para melhora sua interatividade.
