@@ -1,0 +1,109 @@
+/* Aluno: Igor nascimento dos santos alves */
+/* número de matricula: 01609429 */
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+body {
+
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3em;
+}
+
+#calculo {
+
+    width: 400px;
+    padding: 0.5em;
+    background-color: #c4c4c4;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    border-radius: 9px;
+}
+
+#calculo.h3 {
+
+    font-size: .8em;
+    font-weight: 300;
+    color: #666;
+}
+
+#tela-resultado {
+
+    text-align: right;
+    border: solid;
+    border-radius: 9px;
+    border-color: #777;
+    margin: 2%;
+
+}
+
+#previous-tela {
+
+    font-size: 2em;
+    color: #777;
+    padding: 0.3em;
+    overflow-wrap: break-word;
+    min-height: 1.2em;
+}
+
+#current-tela {
+
+    font-size: 2em;
+    font-weight: 700;
+    padding: 0.3em;
+    overflow-wrap: break-word;
+    min-height: 1.2em;
+}
+
+#buttons-conteiner {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 4px;
+}
+
+#buttons-conteiner button {
+
+    border: 1px solid transparent;
+    border-radius: 9%;
+    height: 4em;
+    font-size: 1.2em;
+    background-color: #d4d2d2;
+    cursor: pointer;
+}
+
+#buttons-conteiner .number {
+
+    background-color: #f3f3f3;
+}
+
+#buttons-conteiner button:hover {
+    background-color: #cf5a1b;
+    border-color: #c0631b;
+}
+
+#buttons-conteiner .number:hover {
+    background-color: #54cf1b;
+    border-color: #2ec01b;
+}
+
+#buttons-conteiner #igual-resultado {
+    grid-column: span 2;
+    background-color: #0f1b8655;
+
+}
+
+#buttons-conteiner #igual-resultado:hover {
+    border-color: #0e869e55;
+    background-color: #0e869e55;
+
+}
